@@ -6,12 +6,12 @@ This project is an AI-driven customer support ticket system that automatically c
 
 ## Features
 
-- 📝 **Ticket Submission** – Clean, user-friendly form for submitting support issues.
-- 🤖 **AI Categorization** – Uses a local LLM (Gemma) to classify tickets into *Technical*, *Billing*, *Urgent*, or *General* categories.
-- ✉️ **Automated Response Generation** – Dynamically generates suggested responses based on ticket category.
-- 📋 **Live Ticket Queue** – Displays all current tickets with status, category, and AI-generated responses.
-- 📊 **Analytics Dashboard** – Real-time metrics including total tickets, AI accuracy, average response time, and time saved. Includes interactive charts.
-- 💻 **Local Deployment** – Powered by a local LLM via API (no paid services or cloud dependency).
+- **Ticket Submission** – Clean, user-friendly form for submitting support issues.
+- **AI Categorization** – Uses a local LLM (Gemma) to classify tickets into *Technical*, *Billing*, *Urgent*, or *General* categories.
+- **Automated Response Generation** – Dynamically generates suggested responses based on ticket category.
+- **Live Ticket Queue** – Displays all current tickets with status, category, and AI-generated responses.
+- **Analytics Dashboard** – Real-time metrics including total tickets, AI accuracy, average response time, and time saved. Includes interactive charts.
+- **Local Deployment** – Powered by a local LLM via API (no paid services or cloud dependency).
 
 ## Tech Stack
 
@@ -45,13 +45,4 @@ This project is an AI-driven customer support ticket system that automatically c
 
 ## Demo
 
-Watch a live demo: [Loom/YouTube Link]
-
-## License
-
-MIT License
-
-## Author
-
-Naeem Saleem  
-[GitHub](https://github.com/naeemsaleem2003)
+Watch a live demo: https://www.loom.com/share/b0fb9b859944404ab4b1e1eeb2ea87d0?sid=abfa6918-d49e-4acf-99af-e7c6b3bb6924
